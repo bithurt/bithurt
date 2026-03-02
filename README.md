@@ -1,6 +1,6 @@
 # Arthur Mendes
 
-🎓 Computer Science student
+🎓 Computer Science student  
 🔐 Interested in Cybersecurity & Systems  
 🐧 Linux enthusiast  
 💻 Building practical projects  
